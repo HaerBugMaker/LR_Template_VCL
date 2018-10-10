@@ -1,0 +1,21 @@
+//---------------------------------------------------------------------------
+
+#ifndef mainH
+#define mainH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+//---------------------------------------------------------------------------
+class Tmainform : public TForm
+{
+__published:	// IDE-managed Components
+private:	// User declarations
+public:		// User declarations
+	__fastcall Tmainform(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE Tmainform *mainform;
+//---------------------------------------------------------------------------
+#endif

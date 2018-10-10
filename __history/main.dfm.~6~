@@ -1,0 +1,54 @@
+object mainform: Tmainform
+  Left = 0
+  Top = 0
+  Caption = 'VCL'#26631#20934#24037#31243
+  ClientHeight = 377
+  ClientWidth = 528
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Menu = MainMenu1
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object StaB: TStatusBar
+    Left = 0
+    Top = 358
+    Width = 528
+    Height = 19
+    Panels = <
+      item
+        Width = 200
+      end
+      item
+        Width = 200
+      end
+      item
+        Width = 50
+      end>
+    ExplicitLeft = -56
+    ExplicitWidth = 584
+  end
+  object MainMenu1: TMainMenu
+    Left = 96
+    Top = 40
+  end
+  object UDPSvr: TIdUDPServer
+    Bindings = <>
+    DefaultPort = 0
+    Left = 152
+    Top = 40
+  end
+  object actBase: TActionList
+    Left = 40
+    Top = 40
+    object actlSetBinding: TAction
+      Caption = 'IP'#37197#32622
+      OnExecute = actlSetBindingExecute
+    end
+  end
+end

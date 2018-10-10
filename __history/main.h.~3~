@@ -1,0 +1,33 @@
+//---------------------------------------------------------------------------
+
+#ifndef mainH
+#define mainH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <IdBaseComponent.hpp>
+#include <IdComponent.hpp>
+#include <IdUDPBase.hpp>
+#include <IdUDPServer.hpp>
+#include <System.Actions.hpp>
+#include <Vcl.ActnList.hpp>
+#include <Vcl.ComCtrls.hpp>
+#include <Vcl.Menus.hpp>
+//---------------------------------------------------------------------------
+class Tmainform : public TForm
+{
+__published:	// IDE-managed Components
+	TMainMenu *MainMenu1;
+	TStatusBar *StaB;
+	TIdUDPServer *UDPSvr;
+	TActionList *ActionList1;
+private:	// User declarations
+public:		// User declarations
+	__fastcall Tmainform(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE Tmainform *mainform;
+//---------------------------------------------------------------------------
+#endif

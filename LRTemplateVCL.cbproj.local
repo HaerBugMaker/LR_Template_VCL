@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.106,=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.844,=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/10/10 10:14:34.375,=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/10/10 10:14:37.370,=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/10/10 10:15:00.641,Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\main.cpp=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/10/10 10:15:00.641,Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\main.h=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018/10/10 10:15:00.641,Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\main.dfm=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/10/10 10:15:02.424,Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\Project1PCH1.h=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/10/10 10:15:10.372,Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\LRTemplateVCLPCH1.h=Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\Project1PCH1.h</Transaction>
+    <Transaction>2018/10/10 10:15:10.487,Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\LRTemplateVCL.cbproj=C:\Users\dell\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2018/10/10 10:20:14.868,=Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\ConfigCom.cpp</Transaction>
+    <Transaction>2018/10/10 10:20:14.960,=Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\SupportFuns.cpp</Transaction>
+    <Transaction>2018/10/10 10:20:15.039,=Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\Udp_opt.cpp</Transaction>
+    <Transaction>2018/10/10 10:20:15.127,=Z:\CodingTasks\项目中常用的文件\Git版本\LR_Template_VCL\UDPStructs.h</Transaction>
+  </Transactions>
+</BorlandProject>
