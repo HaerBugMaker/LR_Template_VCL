@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Folders
+Win32
+_history
